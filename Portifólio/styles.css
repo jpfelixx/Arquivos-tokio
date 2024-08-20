@@ -66,14 +66,27 @@ footer {
 
 .center{
     text-align: center;
+    justify-content: center;
+  
+    
+
 }
 
 .photos{
     display: flex;
+    
 
 }
 
 .photos img{
     width: 30vh;
     margin-right: 3vh;
+   
 }
+
+ol{
+    background-color: rgb(236, 222, 224);
+    padding: 10px;
+    border-radius: 10px;
+}
+
